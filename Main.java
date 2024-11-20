@@ -4,6 +4,7 @@ public static void main(String[] args) {
 System.out.println("201514099 이재용");
 System.out.println(Hello.sum(10));
 System.out.println(Hello.sum(100));
+System.out.println(Hello.sum(1000));
 
 }
 }
